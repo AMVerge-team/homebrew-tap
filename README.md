@@ -68,4 +68,5 @@ homebrew-tap/
 - **Website**: [amverge.app](https://amverge.app/)
 - **Desktop App**: [AMVerge-team/AMVerge](https://github.com/AMVerge-team/AMVerge)
 - **CLI Backend**: [AMVerge-team/AMVerge-CLI](https://github.com/AMVerge-team/AMVerge-CLI)
+- **After Effects Extension**: [AMVerge-team/AMVerge-Extension](https://github.com/AMVerge-team/AMVerge-Extension)
 - **Discord**: [Join the AMVerge Discord](https://discord.gg/bmXjTgsAaN)
